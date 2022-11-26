@@ -1,0 +1,359 @@
+#EXTM3U  $ExtFilter=\"CLİPTV\"  $BorpasFileFormat=\"1\"  $UpdateID=\"tvs1610505669\" 
+#EXTINF:-1 catchup=\"append\" catchup-days=\"30\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Азербайджан\"  update-code=\"tvs1610505669Азербайджанaz tv_00httpmfecliptvazdashaztvsdismplaylistmpd00\" ,Az TV
+http://mfe.cliptv.az/dash/AzTV_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеictimai_00httpmfecliptvazdashictimaihdismplaylistmpd00\" ,Ictimai
+http://mfe.cliptv.az/dash/Ictimai_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеlider_00httpmfecliptvazdashlidersdismplaylistmpd00\" ,Lider
+http://mfe.cliptv.az/dash/Lider_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеspace_00httpmfecliptvazdashspacesdismplaylistmpd00\" ,Space
+http://mfe.cliptv.az/dash/Space_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеatv_00httpmfecliptvazdashatvsdismplaylistmpd00\" ,ATV
+http://mfe.cliptv.az/dash/ATV_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеx153z153r_00httpmfecliptvazdashxezersdismplaylistmpd00\" ,Xəzər
+http://mfe.cliptv.az/dash/Xezer_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеdal159a tv_00httpmfecliptvazdashdalgatvsdismplaylistmpd00\" ,Dalğa TV
+http://mfe.cliptv.az/dash/DalgaTV_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеcbc azerbaijan_00httpmfecliptvazdashcbcazerbaijansdismplaylistmpd00\" ,CBC Azerbaijan
+http://mfe.cliptv.az/dash/CBC_Azerbaijan_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Азербайджан\"  update-code=\"tvs1610505669Азербайджанdunya tv_00httpmfecliptvazdashdunyatvismplaylistmpd00\" ,Dunya TV
+http://mfe.cliptv.az/dash/Dunya_TV.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Азербайджан\"  update-code=\"tvs1610505669Азербайджанarb_00httpmfecliptvazdasharbsdismplaylistmpd00\" ,Arb
+http://mfe.cliptv.az/dash/ARB_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Азербайджан\"  update-code=\"tvs1610505669Азербайджанarb 24_00httpmfecliptvazdasharb24sdismplaylistmpd00\" ,Arb 24
+http://mfe.cliptv.az/dash/ARB_24_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеm153d153niyy153t_00httpmfecliptvazdashmedeniyyetsdismplaylistmpd00\" ,Mədəniyyət
+http://mfe.cliptv.az/dash/Medeniyyet_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеarb g188n153159_00httpmfecliptvazdasharbguneshsdismplaylistmpd00\" ,Arb Günəş
+http://mfe.cliptv.az/dash/ARB_Gunesh_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеidman_00httpmfecliptvazdashidmanhdismplaylistmpd00\" ,Idman
+http://mfe.cliptv.az/dash/Idman_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеcbc sport_00httpmfecliptvazdashcbcsporthdismplaylistmpd00\" ,CBC Sport
+http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"3\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеmuztv_00httpmfecliptvazdashmuztvazerisdismplaylistmpd00\" ,MuzTV
+http://mfe.cliptv.az/dash/MuzTV_Azeri_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеreal tv_00httpmfecliptvazdashrealtvsdismplaylistmpd00\" ,Real TV
+http://mfe.cliptv.az/dash/Real_TV_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеatv_00httpmfecliptvazdashatvturkhdismplaylistmpd00\" ,ATV
+http://mfe.cliptv.az/dash/ATV_Turk_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеshow_00httpmfecliptvazdashshowhdismplaylistmpd00\" ,Show
+http://mfe.cliptv.az/dash/Show_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеstar_00httpmfecliptvazdashstartvhdismplaylistmpd00\" ,Star
+http://mfe.cliptv.az/dash/Star_TV_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеtv 8_00httpmfecliptvazdashtv8hdismplaylistmpd00\" ,TV 8
+http://mfe.cliptv.az/dash/TV_8_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеkanal 7_00httpmfecliptvazdashkanal7sdismplaylistmpd00\" ,Kanal 7
+http://mfe.cliptv.az/dash/Kanal_7_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеshowmax_00httpmfecliptvazdashshowmaxsdismplaylistmpd00\" ,ShowMax
+http://mfe.cliptv.az/dash/ShowMax_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеtrt world_00httpmfecliptvazdashtrtworldhdismplaylistmpd00\" ,TRT World
+http://mfe.cliptv.az/dash/TRT_World_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Новости\"  update-code=\"tvs1610505669Новостиbloomberg_00httpmfecliptvazdashblomberghdismplaylistmpd00\" ,Bloomberg
+http://mfe.cliptv.az/dash/Blomberg_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеhabert156rk_00httpmfecliptvazdashhaberturkhdismplaylistmpd00\" ,HABERTÜRK
+http://mfe.cliptv.az/dash/HaberTurk_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеntv_00httpmfecliptvazdashntvhdismplaylistmpd00\" ,NTV
+http://mfe.cliptv.az/dash/NTV_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеtrt haber_00httpmfecliptvazdashtrthaberhdismplaylistmpd00\" ,TRT Haber
+http://mfe.cliptv.az/dash/TRT_Haber_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Турция\"  update-code=\"tvs1610505669Турцияtrt 1_00httpmfecliptvazdashtrt1hdismplaylistmpd00\" ,TRT 1
+http://mfe.cliptv.az/dash/TRT_1_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеteve 2_00httpmfecliptvazdashtv2sdismplaylistmpd00\" ,Teve 2
+http://mfe.cliptv.az/dash/TV_2_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеa haber_00httpmfecliptvazdashahaberhdismplaylistmpd00\" ,A Haber
+http://mfe.cliptv.az/dash/A_Haber_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеtv 8.5_00httpmfecliptvazdashtv85hdismplaylistmpd00\" ,TV 8.5
+http://mfe.cliptv.az/dash/TV_8_5_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеakilli tv_00httpmfecliptvazdashakillitvsdismplaylistmpd00\" ,AKILLI TV
+http://mfe.cliptv.az/dash/AKILLI_TV_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеtrt belgesel_00httpmfecliptvazdashtrtbelgeselhdismplaylistmpd00\" ,TRT Belgesel
+http://mfe.cliptv.az/dash/TRT_Belgesel_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеtrt cocuk_00httpmfecliptvazdashtrtcocukhdismplaylistmpd00\" ,TRT Cocuk
+http://mfe.cliptv.az/dash/TRT_Cocuk_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеminika go_00httpmfecliptvazdashminikagosdismplaylistmpd00\" ,Minika Go
+http://mfe.cliptv.az/dash/Minika_Go_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеminika cocuk_00httpmfecliptvazdashminikacocuksdismplaylistmpd00\" ,Minika Cocuk
+http://mfe.cliptv.az/dash/Minika_Cocuk_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Турция\"  update-code=\"tvs1610505669Турцияdmax_00httpmfecliptvazdashdmaxhdismplaylistmpd00\" ,DMAX
+http://mfe.cliptv.az/dash/DMAX_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеa spor_00httpmfecliptvazdashasporhdismplaylistmpd00\" ,A Spor
+http://mfe.cliptv.az/dash/A_Spor_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеtrt spor_00httpmfecliptvazdashtrtsporhdismplaylistmpd00\" ,TRT Spor
+http://mfe.cliptv.az/dash/TRT_SPOR_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеyaban_00httpmfecliptvazdashyabantvsdismplaylistmpd00\" ,YABAN
+http://mfe.cliptv.az/dash/Yaban_TV_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"3\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеtmb tv_00httpmfecliptvazdashtmbtvsdismplaylistmpd00\" ,TMB TV
+http://mfe.cliptv.az/dash/TMB_TV_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"3\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеpowerturk_00httpmfecliptvazdashpowerturksdismplaylistmpd00\" ,POWERTURK
+http://mfe.cliptv.az/dash/POWERTURK_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"7\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеkanal d_00httpmfecliptvazdashkanaldhdismplaylistmpd00\" ,Kanal D
+http://mfe.cliptv.az/dash/Kanal_D_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"3\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеmezzo live_00httpmfecliptvazdashmezzolivehdismplaylistmpd00\" ,Mezzo Live
+http://mfe.cliptv.az/dash/Mezzo_Live_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"3\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеmtv live_00httpmfecliptvazdashmtvlivehdismplaylistmpd00\" ,MTV Live
+http://mfe.cliptv.az/dash/MTV_Live_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Новости\"  update-code=\"tvs1610505669Новостиbbc world news_00httpmfecliptvazdashbbcworldnewssdismplaylistmpd00\" ,BBC World News
+http://mfe.cliptv.az/dash/BBC_World_News_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Общероссийские\"  update-code=\"tvs1610505669Общероссийскиеmir_d0httpmfecliptvazdashmirhd542ismplaylistmpd00\" ,Мир
+http://mfe.cliptv.az/dash/Mir_HD_542.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Общероссийские\"  update-code=\"tvs1610505669Общероссийскиеzvezda_d0httpmfecliptvazdashzvezdasd12q2ismplaylistmpd00\" ,Звезда
+http://mfe.cliptv.az/dash/Zvezda_SD_12q2.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Общероссийские\"  update-code=\"tvs1610505669Общероссийскиеtv czentr_d0httpmfecliptvazdashtvcentersd159qismplaylistmpd00\" ,ТВ Центр
+http://mfe.cliptv.az/dash/TV_Center_SD_159q.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Общероссийские\"  update-code=\"tvs1610505669Общероссийские8 kanal_d0httpmfecliptvazdash8kanalsd951wismplaylistmpd00\" ,8 канал
+http://mfe.cliptv.az/dash/8_kanal_SD_951w.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Общероссийские\"  update-code=\"tvs1610505669Общероссийскиеren tv_d0httpmfecliptvazdashrensdismplaylistmpd00\" ,РЕН ТВ
+http://mfe.cliptv.az/dash/Ren_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Общероссийские\"  update-code=\"tvs1610505669Общероссийскиеntv_d0httpmfecliptvazdashhtbhdismplaylistmpd00\" ,НТВ
+http://mfe.cliptv.az/dash/HTB_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Кино\"  update-code=\"tvs1610505669Киноnostal`giya_d0httpmfecliptvazdashnostalgiyasdismplaylistmpd00\" ,Ностальгия
+http://mfe.cliptv.az/dash/Nostalgiya_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Украина\"  update-code=\"tvs1610505669Украина5 kanal_d0httpmfecliptvazdash5kanalsdismplaylistmpd00\" ,5 канал
+http://mfe.cliptv.az/dash/5_Kanal_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Общероссийские\"  update-code=\"tvs1610505669Общероссийскиеpervyj kanal_d0httpmfecliptvazdashperviykanalhdismplaylistmpd00\" ,Первый канал
+http://mfe.cliptv.az/dash/Perviy_Kanal_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Общероссийские\"  update-code=\"tvs1610505669Общероссийскиеrossiya 1_d0httpmfecliptvazdashrossiya1hdismplaylistmpd00\" ,Россия 1
+http://mfe.cliptv.az/dash/Rossiya_1_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Новости\"  update-code=\"tvs1610505669Новостиevronovosti_d0httpmfecliptvazdashevronovostisdismplaylistmpd00\" ,Евроновости
+http://mfe.cliptv.az/dash/Evronovosti_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Новости\"  update-code=\"tvs1610505669Новостиrbk_d0httpmfecliptvazdashrbksdismplaylistmpd00\" ,РБК
+http://mfe.cliptv.az/dash/RBK_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Новости\"  update-code=\"tvs1610505669Новостиrossiya 24_d0httpmfecliptvazdashrossiya24sdismplaylistmpd00\" ,Россия 24
+http://mfe.cliptv.az/dash/Rossiya_24_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Кино\"  update-code=\"tvs1610505669Киноamc_00httpmfecliptvazdashamcsdismplaylistmpd00\" ,AMC
+http://mfe.cliptv.az/dash/AMC_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Новости\"  update-code=\"tvs1610505669Новостиmir 24_d0httpmfecliptvazdashmir24sdismplaylistmpd00\" ,Мир 24
+http://mfe.cliptv.az/dash/MIR24_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Общероссийские\"  update-code=\"tvs1610505669Общероссийскиеtnt_d0httpmfecliptvazdashtnthdismplaylistmpd00\" ,ТНТ
+http://mfe.cliptv.az/dash/TNT_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Познавательные\"  update-code=\"tvs1610505669Познавательные2x2_00httpmfecliptvazdash2x2sdismplaylistmpd00\" ,2x2
+http://mfe.cliptv.az/dash/2x2_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Общероссийские\"  update-code=\"tvs1610505669Общероссийскиеsts_d0httpmfecliptvazdashstssdismplaylistmpd00\" ,СТС
+http://mfe.cliptv.az/dash/STS_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Общероссийские\"  update-code=\"tvs1610505669Общероссийскиеsts love_00httpmfecliptvazdashstslovesdismplaylistmpd00\" ,СТС Love
+http://mfe.cliptv.az/dash/STS_Love_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Общероссийские\"  update-code=\"tvs1610505669Общероссийскиеpyatnicza!_d0httpmfecliptvazdashpyatnicasdismplaylistmpd00\" ,Пятница!
+http://mfe.cliptv.az/dash/Pyatnica_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Общероссийские\"  update-code=\"tvs1610505669Общероссийскиеche_d0httpmfecliptvazdashcesdismplaylistmpd00\" ,Че
+http://mfe.cliptv.az/dash/Ce_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Познавательные\"  update-code=\"tvs1610505669Познавательныеavto plyus_d0httpmfecliptvazdashavtoplussdismplaylistmpd00\" ,Авто плюс
+http://mfe.cliptv.az/dash/Avto_Plus_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"7\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Познавательные\"  update-code=\"tvs1610505669Познавательныеokhota i rybalka_d0httpmfecliptvazdashoxotairibalkasdismplaylistmpd00\" ,Охота и рыбалка
+http://mfe.cliptv.az/dash/Oxota_i_Ribalka_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Общероссийские\"  update-code=\"tvs1610505669Общероссийскиеdomashnij_d0httpmfecliptvazdashdomashniysdismplaylistmpd00\" ,Домашний
+http://mfe.cliptv.az/dash/Domashniy_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Кухня\"  update-code=\"tvs1610505669Кухняkukhnya tv_d0httpmfecliptvazdashkuxnyatvsdismplaylistmpd00\" ,Кухня ТВ
+http://mfe.cliptv.az/dash/Kuxnya_TV_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Познавательные\"  update-code=\"tvs1610505669Познавательныеhdl_00httpmfecliptvazdashhdlifeismplaylistmpd00\" ,HDL
+http://mfe.cliptv.az/dash/HD_life.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Познавательные\"  update-code=\"tvs1610505669Познавательныеrtg_00httpmfecliptvazdashrtghdismplaylistmpd00\" ,RTG
+http://mfe.cliptv.az/dash/RTG_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Познавательные\"  update-code=\"tvs1610505669Познавательныеtlc_00httpmfecliptvazdashtlchdismplaylistmpd00\" ,TLC
+http://mfe.cliptv.az/dash/TLC_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Кино\"  update-code=\"tvs1610505669Киноparamount comedy_00httpmfecliptvazdashparamountcomedysdismplaylistmpd00\" ,Paramount Comedy
+http://mfe.cliptv.az/dash/Paramount_Comedy_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"3\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Беларусь\"  update-code=\"tvs1610505669Беларусьbelarus` 24_d0httpmfecliptvazdashmiruvleceniysdismplaylistmpd00\" ,Беларусь 24
+http://mfe.cliptv.az/dash/Mir_Uvleceniy_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Познавательные\"  update-code=\"tvs1610505669Познавательныеdikij_d0httpmfecliptvazdashdikiysdismplaylistmpd00\" ,Дикий
+http://mfe.cliptv.az/dash/Dikiy_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"3\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Кино\"  update-code=\"tvs1610505669Киноsony turbo_00httpmfecliptvazdashsonyturbosdismplaylistmpd00\" ,Sony Turbo
+http://mfe.cliptv.az/dash/Sony_Turbo_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Кино\"  update-code=\"tvs1610505669Киноa2_00httpmfecliptvazdashamedia2sdismplaylistmpd00\" ,A2
+http://mfe.cliptv.az/dash/Amedia_2_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Общероссийские\"  update-code=\"tvs1610505669Общероссийскиеtv 3_d0httpmfecliptvazdashtv3sdismplaylistmpd00\" ,ТВ 3
+http://mfe.cliptv.az/dash/TV_3_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Кино\"  update-code=\"tvs1610505669Киноtv 1000_00httpmfecliptvazdashtv1000sdismplaylistmpd00\" ,TV 1000
+http://mfe.cliptv.az/dash/TV1000_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Кино\"  update-code=\"tvs1610505669Киноtv 1000 action_00httpmfecliptvazdashtv1000actionsdismplaylistmpd00\" ,TV 1000 Action
+http://mfe.cliptv.az/dash/TV1000_Action_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Кино\"  update-code=\"tvs1610505669Киноtv 1000 russkoe kino_d0httpmfecliptvazdashtv1000russkoekinosdismplaylistmpd00\" ,TV 1000 Русское кино
+http://mfe.cliptv.az/dash/TV1000_Russkoe_Kino_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Кино\"  update-code=\"tvs1610505669Киноkinokhit_d0httpmfecliptvazdashkinohitsdismplaylistmpd00\" ,КИНОХИТ
+http://mfe.cliptv.az/dash/Kinohit_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Кино\"  update-code=\"tvs1610505669Киноkinoprem`era hd_d0httpmfecliptvazdashkinopremierahdismplaylistmpd00\" ,Кинопремьера HD
+http://mfe.cliptv.az/dash/Kinopremiera_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Кино\"  update-code=\"tvs1610505669Киноkinosem`ya_d0httpmfecliptvazdashkinosemyasdismplaylistmpd00\" ,КИНОСЕМЬЯ
+http://mfe.cliptv.az/dash/Kinosemya_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Кино\"  update-code=\"tvs1610505669Киноkinosvidanie_d0httpmfecliptvazdashkinosvidaniyesdismplaylistmpd00\" ,КИНОСВИДАНИЕ
+http://mfe.cliptv.az/dash/Kinosvidaniye_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Кино\"  update-code=\"tvs1610505669Киноrodnoe kino_d0httpmfecliptvazdashrodnoekinosdismplaylistmpd00\" ,Родное кино
+http://mfe.cliptv.az/dash/Rodnoe_Kino_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Кино\"  update-code=\"tvs1610505669Киноnashe novoe kino_d0httpmfecliptvazdashnashenovoekinosdismplaylistmpd00\" ,Наше новое кино
+http://mfe.cliptv.az/dash/Nashe_Novoe_Kino_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Кино\"  update-code=\"tvs1610505669Киноnashe lyubimoe kino_d0httpmfecliptvazdashlyubimoekinosdismplaylistmpd00\" ,Наше любимое кино
+http://mfe.cliptv.az/dash/Lyubimoe_Kino_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Кино\"  update-code=\"tvs1610505669Киноsony sci-fi_00httpmfecliptvazdashsonyscifisdismplaylistmpd00\" ,Sony Sci-Fi
+http://mfe.cliptv.az/dash/Sony_Sci_Fi_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Кино\"  update-code=\"tvs1610505669Киноindijskoe kino_d0httpmfecliptvazdashindiyskoekinosdismplaylistmpd00\" ,Индийское кино
+http://mfe.cliptv.az/dash/Indiyskoe_Kino_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Кино\"  update-code=\"tvs1610505669Киноkinokomediya_d0httpmfecliptvazdashkinokomediyasdismplaylistmpd00\" ,Кинокомедия
+http://mfe.cliptv.az/dash/Kinokomediya_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Кино\"  update-code=\"tvs1610505669Киноtv xxi_00httpmfecliptvazdashtvxxisdismplaylistmpd00\" ,TV XXI
+http://mfe.cliptv.az/dash/TV_XXI_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Познавательные\"  update-code=\"tvs1610505669Познавательныеcbs reality_00httpmfecliptvazdashcbsrealitysdismplaylistmpd00\" ,CBS Reality
+http://mfe.cliptv.az/dash/CBS_Reality_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Кино\"  update-code=\"tvs1610505669Киноdom kino premium_d0httpmfecliptvazdashdomkinopremiumhdismplaylistmpd00\" ,Дом кино премиум
+http://mfe.cliptv.az/dash/Dom_Kino_Premium_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Кино\"  update-code=\"tvs1610505669Киноmuzhskoe kino_d0httpmfecliptvazdashmujskoyekinosdismplaylistmpd00\" ,Мужское кино
+http://mfe.cliptv.az/dash/Mujskoye_Kino_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Кино\"  update-code=\"tvs1610505669Киноevrokino_d0httpmfecliptvazdashevrokinosdismplaylistmpd00\" ,Еврокино
+http://mfe.cliptv.az/dash/Evrokino_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеmgm_00httpmfecliptvazdashmgmhdismplaylistmpd00\" ,MGM
+http://mfe.cliptv.az/dash/MGM_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Кино\"  update-code=\"tvs1610505669Киноvip comedy_00httpmfecliptvazdashvipcomedyhdismplaylistmpd00\" ,Vip Comedy
+http://mfe.cliptv.az/dash/VIP_Comedy_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Кино\"  update-code=\"tvs1610505669Киноvip megahit_00httpmfecliptvazdashvipmegahithdismplaylistmpd00\" ,VIP Megahit
+http://mfe.cliptv.az/dash/VIP_Megahit_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Кино\"  update-code=\"tvs1610505669Киноvip premiere_00httpmfecliptvazdashvippremiumhdismplaylistmpd00\" ,Vip Premiere
+http://mfe.cliptv.az/dash/VIP_Premium_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Кино\"  update-code=\"tvs1610505669Киноamedia premium_00httpmfecliptvazdashamediapremiumhdismplaylistmpd00\" ,Amedia Premium
+http://mfe.cliptv.az/dash/Amedia_Premium_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Кино\"  update-code=\"tvs1610505669Киноkinomiks_d0httpmfecliptvazdashkinomixsdismplaylistmpd00\" ,Киномикс
+http://mfe.cliptv.az/dash/Kinomix_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Кино\"  update-code=\"tvs1610505669Киноkinoseriya_d0httpmfecliptvazdashkinoseriyasdismplaylistmpd00\" ,Киносерия
+http://mfe.cliptv.az/dash/Kinoseriya_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Кино\"  update-code=\"tvs1610505669Киноkino tv_d0httpmfecliptvazdashkinotvhdismplaylistmpd00\" ,Кино ТВ
+http://mfe.cliptv.az/dash/Kino_TV_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Кино\"  update-code=\"tvs1610505669Киноmir seriala_d0http185161224216dashmirserialasdismplaylistmpd00\" ,Мир сериала
+http://185.161.224.216/dash/Mir_seriala_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Кино\"  update-code=\"tvs1610505669Киноcinema_00httpmfecliptvazdashcinemasdismplaylistmpd00\" ,Cinema
+http://mfe.cliptv.az/dash/Cinema_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеfox rossiya_d0httpmfecliptvazdashfoxrussiasdismplaylistmpd00\" ,Fox Россия
+http://mfe.cliptv.az/dash/Fox_Russia_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Кино\"  update-code=\"tvs1610505669Киноa1_00httpmfecliptvazdasha1sdismplaylistmpd00\" ,A1
+http://mfe.cliptv.az/dash/A1_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Кино\"  update-code=\"tvs1610505669Киноamedia hit_00httpmfecliptvazdashamediahitsdismplaylistmpd00\" ,Amedia Hit
+http://mfe.cliptv.az/dash/A_Media_Hit_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Кино\"  update-code=\"tvs1610505669Киноnastoyashhee strashnoe tv_d0httpmfecliptvazdashnstvsdismplaylistmpd00\" ,Настоящее страшное ТВ
+http://mfe.cliptv.az/dash/NSTV_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Кино\"  update-code=\"tvs1610505669Киноparamount channel_00httpmfecliptvazdashparamountchannelsdismplaylistmpd00\" ,Paramount Channel
+http://mfe.cliptv.az/dash/Paramount_Channel_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Кино\"  update-code=\"tvs1610505669Киноrusskij roman_d0httpmfecliptvazdashruskiyromansdismplaylistmpd00\" ,Русский роман
+http://mfe.cliptv.az/dash/Ruskiy_Roman_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Кино\"  update-code=\"tvs1610505669Киноrusskij detektiv_d0httpmfecliptvazdashruskiydetektivsdismplaylistmpd00\" ,Русский детектив
+http://mfe.cliptv.az/dash/Ruskiy_Detektiv_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Детские\"  update-code=\"tvs1610505669Детскиеmul`t_d0httpmfecliptvazdashtlumhdismplaylistmpd00\" ,Мульт
+http://mfe.cliptv.az/dash/Tlum_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Детские\"  update-code=\"tvs1610505669Детскиеkarusel`_d0httpmfecliptvazdashkaruselsdismplaylistmpd00\" ,Карусель
+http://mfe.cliptv.az/dash/Karusel_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Детские\"  update-code=\"tvs1610505669Детскиеdisney channel_00httpmfecliptvazdashdisneysdismplaylistmpd00\" ,Disney Channel
+http://mfe.cliptv.az/dash/Disney_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Детские\"  update-code=\"tvs1610505669Детскиеtiji_00httpmfecliptvazdashtijisdismplaylistmpd00\" ,Tiji
+http://mfe.cliptv.az/dash/Tiji_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Детские\"  update-code=\"tvs1610505669Детскиеdetskij mir_d0httpmfecliptvazdashdetskiymirsdismplaylistmpd00\" ,Детский мир
+http://mfe.cliptv.az/dash/Detskiy_Mir_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Детские\"  update-code=\"tvs1610505669Детскиеnickelodeon_00httpmfecliptvazdashnickelodeonsdismplaylistmpd00\" ,Nickelodeon
+http://mfe.cliptv.az/dash/Nickelodeon_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Детские\"  update-code=\"tvs1610505669Детскиеmul`t_d0httpmfecliptvazdashmultsdismplaylistmpd00\" ,Мульт
+http://mfe.cliptv.az/dash/Mult_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеn176ck jr_00httpmfecliptvazdashnickjrsdismplaylistmpd00\" ,NİCK JR
+http://mfe.cliptv.az/dash/Nick_JR_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Детские\"  update-code=\"tvs1610505669Детскиеmul`timaniya_d0httpmfecliptvazdashmultimaniyasdismplaylistmpd00\" ,Мультимания
+http://mfe.cliptv.az/dash/Multimaniya_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Детские\"  update-code=\"tvs1610505669Детскиеgulli girl_00httpmfecliptvazdashgulligirlsdismplaylistmpd00\" ,Gulli Girl
+http://mfe.cliptv.az/dash/Gulli_Girl_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Детские\"  update-code=\"tvs1610505669Детскиеani_00httpmfecliptvazdashanitvsdismplaylistmpd00\" ,Ani
+http://mfe.cliptv.az/dash/ANITV_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Детские\"  update-code=\"tvs1610505669Детскиеcartoon network_00httpmfecliptvazdashcartoonnetworksdismplaylistmpd00\" ,Cartoon Network
+http://mfe.cliptv.az/dash/Cartoon_Network_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Познавательные\"  update-code=\"tvs1610505669Познавательныеoutdoor_00httpmfecliptvazdashoutdoorhdismplaylistmpd00\" ,Outdoor
+http://mfe.cliptv.az/dash/Outdoor_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Спорт\"  update-code=\"tvs1610505669Спортmatch! boecz_d0httpmfecliptvazdashmatcboecsdismplaylistmpd00\" ,Матч! Боец
+http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Спорт\"  update-code=\"tvs1610505669Спортmatch! tv_d0httpmfecliptvazdashmatchhdismplaylistmpd00\" ,Матч! ТВ
+http://mfe.cliptv.az/dash/Match_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Спорт\"  update-code=\"tvs1610505669Спортfightbox_00httpmfecliptvazdashfightboxsdismplaylistmpd00\" ,FightBox
+http://mfe.cliptv.az/dash/Fightbox_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Спорт\"  update-code=\"tvs1610505669Спортeurosport 1_00httpmfecliptvazdasheurosport1sdismplaylistmpd00\" ,Eurosport 1
+http://mfe.cliptv.az/dash/EuroSport1_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Спорт\"  update-code=\"tvs1610505669Спортviasat sport_00httpmfecliptvazdashviasatsportsdismplaylistmpd00\" ,Viasat Sport
+http://mfe.cliptv.az/dash/Viasat_Sport_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Спорт\"  update-code=\"tvs1610505669Спортkkhl_d0httpmfecliptvazdashkhltvsdismplaylistmpd00\" ,КХЛ
+http://mfe.cliptv.az/dash/KHL_TV_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Спорт\"  update-code=\"tvs1610505669Спортmatch! arena_d0httpmfecliptvazdashmatcharenahdismplaylistmpd00\" ,Матч! Арена
+http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Спорт\"  update-code=\"tvs1610505669Спортmatch! igra_d0httpmfecliptvazdashmatchigrahdismplaylistmpd00\" ,Матч! Игра
+http://mfe.cliptv.az/dash/Match_Igra_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Спорт\"  update-code=\"tvs1610505669Спортmatch! futbol 1_d0httpmfecliptvazdashmatchfootball1hdkjtismplaylistmpd00\" ,Матч! Футбол 1
+http://mfe.cliptv.az/dash/Match_Football_1_HD_kjt.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Спорт\"  update-code=\"tvs1610505669Спортmatch! futbol 2_d0httpmfecliptvazdashmatchfootball2hdk2jtismplaylistmpd00\" ,Матч! Футбол 2
+http://mfe.cliptv.az/dash/Match_Football_2_HD_k2jt.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Спорт\"  update-code=\"tvs1610505669Спортmatch! futbol 3_d0httpmfecliptvazdashmatchfootball3hdk3jtismplaylistmpd00\" ,Матч! Футбол 3
+http://mfe.cliptv.az/dash/Match_Football_3_HD_k3jt.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Спорт\"  update-code=\"tvs1610505669Спортmatch! prem`er_d0httpmfecliptvazdashmatchpremyerhdismplaylistmpd00\" ,Матч! Премьер
+http://mfe.cliptv.az/dash/Match_Premyer_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Спорт\"  update-code=\"tvs1610505669Спортmatch! strana_d0httpmfecliptvazdashmatchnashsportsdismplaylistmpd00\" ,Матч! Страна
+http://mfe.cliptv.az/dash/MATCH_NASH_SPORT_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Спорт\"  update-code=\"tvs1610505669Спортeurosport 2_00httpmfecliptvazdasheurosport2sdismplaylistmpd00\" ,EUROSPORT 2
+http://mfe.cliptv.az/dash/Eurosport2_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"7\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Общероссийские\"  update-code=\"tvs1610505669Общероссийскиеrossiya k_d0httpmfecliptvazdashrossiyakulturrasdismplaylistmpd00\" ,Россия К
+http://mfe.cliptv.az/dash/Rossiya_Kulturra_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"7\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Познавательные\"  update-code=\"tvs1610505669Познавательныеviasat history_00httpmfecliptvazdashviasathistorysdismplaylistmpd00\" ,Viasat History
+http://mfe.cliptv.az/dash/Viasat_History_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"7\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Познавательные\"  update-code=\"tvs1610505669Познавательныеanimal planet_00httpmfecliptvazdashanimalplanethdismplaylistmpd00\" ,Animal Planet
+http://mfe.cliptv.az/dash/Animal_Planet_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"7\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Познавательные\"  update-code=\"tvs1610505669Познавательныеdiscovery channel_00httpmfecliptvazdashdiscoverychannelhdismplaylistmpd00\" ,Discovery Channel
+http://mfe.cliptv.az/dash/Discovery_Channel_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"7\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Познавательные\"  update-code=\"tvs1610505669Познавательныеhistory_00httpmfecliptvazdashhistoryhdismplaylistmpd00\" ,History
+http://mfe.cliptv.az/dash/History_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"7\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Познавательные\"  update-code=\"tvs1610505669Познавательныеnat geo wild_00httpmfecliptvazdashnatgeowildhdismplaylistmpd00\" ,Nat Geo Wild
+http://mfe.cliptv.az/dash/Nat_Geo_Wild_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"7\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Познавательные\"  update-code=\"tvs1610505669Познавательныеnational geographic_00httpmfecliptvazdashnationalgeographichdismplaylistmpd00\" ,National Geographic
+http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"7\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Познавательные\"  update-code=\"tvs1610505669Познавательныеtravel channel_00httpmfecliptvazdashtravelchannelhdismplaylistmpd00\" ,Travel Channel
+http://mfe.cliptv.az/dash/Travel_Channel_HD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"7\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Познавательные\"  update-code=\"tvs1610505669Познавательныеviasat nature_00httpmfecliptvazdashviasatnaturesdismplaylistmpd00\" ,Viasat Nature
+http://mfe.cliptv.az/dash/Viasat_Nature_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"3\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Познавательные\"  update-code=\"tvs1610505669Познавательныеspike_00httpmfecliptvazdashspikesdismxxxzplaylistmpd00\" ,Spike
+http://mfe.cliptv.az/dash/Spike_SD.ism_xxxz/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"7\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Познавательные\"  update-code=\"tvs1610505669Познавательныеid investigation discovery_00httpmfecliptvazdashinvestigationdiscoverysdismplaylistmpd00\" ,ID Investigation Discovery
+http://mfe.cliptv.az/dash/Investigation_Discovery_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"7\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Познавательные\"  update-code=\"tvs1610505669Познавательные360176_00httpmfecliptvazdash360tvsdismplaylistmpd00\" ,360°
+http://mfe.cliptv.az/dash/360_TV_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"7\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Познавательные\"  update-code=\"tvs1610505669Познавательныеpervyj obrazovatel`nyj_d0httpmfecliptvazdashperviyobrazovatelniysdismplaylistmpd00\" ,Первый образовательный
+http://mfe.cliptv.az/dash/Perviy_Obrazovatelniy_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"7\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Познавательные\"  update-code=\"tvs1610505669Познавательныеzagorodnaya zhizn`_d0httpmfecliptvazdashzagorodnayajiznsdismplaylistmpd00\" ,Загородная жизнь
+http://mfe.cliptv.az/dash/Zagorodnaya_Jizn_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"7\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Детские\"  update-code=\"tvs1610505669Детскиеda vinci_00httpmfecliptvazdashdavincilearningsdismplaylistmpd00\" ,Da Vinci
+http://mfe.cliptv.az/dash/DaVinci_Learning_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Прочие\"  update-code=\"tvs1610505669Прочиеmama_00httpmfecliptvazdashmamasd542ismplaylistmpd00\" ,Mama
+http://mfe.cliptv.az/dash/Mama_SD_542.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"7\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Познавательные\"  update-code=\"tvs1610505669Познавательныеocean tv_00httpmfecliptvazdashoceantvsdismplaylistmpd00\" ,Ocean TV
+http://mfe.cliptv.az/dash/OceanTV_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"7\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Познавательные\"  update-code=\"tvs1610505669Познавательныеbobyor_d0httpmfecliptvazdashbobyortvsdismxxxzplaylistmpd00\" ,Бобёр
+http://mfe.cliptv.az/dash/Bobyor_TV_SD.ism_xxxz/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"5\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Кухня\"  update-code=\"tvs1610505669Кухняtelekafe_d0httpmfecliptvazdashtelekafesdismplaylistmpd00\" ,Телекафе
+http://mfe.cliptv.az/dash/TeleKafe_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"7\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Познавательные\"  update-code=\"tvs1610505669Познавательныеavto24_d0httpmfecliptvazdashavto24sdismplaylistmpd00\" ,АВТО24
+http://mfe.cliptv.az/dash/Avto_24_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"7\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Познавательные\"  update-code=\"tvs1610505669Познавательныеnano tv_00httpmfecliptvazdashnanotvsdismplaylistmpd00\" ,Nano TV
+http://mfe.cliptv.az/dash/Nano_TV_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"3\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Музыка\"  update-code=\"tvs1610505669Музыкаmuz tv_d0httpmfecliptvazdashmuzsdismplaylistmpd00\" ,Муз ТВ
+http://mfe.cliptv.az/dash/Muz_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"3\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Музыка\"  update-code=\"tvs1610505669Музыкаbridge tv hits_00httpmfecliptvazdashbridgetvdancesdismplaylistmpd00\" ,Bridge TV Hits
+http://mfe.cliptv.az/dash/Bridge_TV_Dance_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"3\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Музыка\"  update-code=\"tvs1610505669Музыкаeuropa plus tv_00httpmfecliptvazdashevropaplustvsdismplaylistmpd00\" ,Europa Plus TV
+http://mfe.cliptv.az/dash/Evropa_Plus_TV_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"3\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Музыка\"  update-code=\"tvs1610505669Музыкаru tv_00httpmfecliptvazdashrutvsdismplaylistmpd00\" ,RU TV
+http://mfe.cliptv.az/dash/RU_TV_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"3\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Музыка\"  update-code=\"tvs1610505669Музыкаbridge tv_00httpmfecliptvazdashbridgetvsdismplaylistmpd00\" ,Bridge TV
+http://mfe.cliptv.az/dash/Bridge_TV_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"3\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Музыка\"  update-code=\"tvs1610505669Музыкаmtv russia_00httpmfecliptvazdashmtvrussiansdismplaylistmpd00\" ,MTV RUSSIA
+http://mfe.cliptv.az/dash/MTV_Russian_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"3\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Музыка\"  update-code=\"tvs1610505669Музыкаvh1 european_00httpmfecliptvazdashvh1europesdismplaylistmpd00\" ,VH1 European
+http://mfe.cliptv.az/dash/VH1_EUROPE_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"3\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Музыка\"  update-code=\"tvs1610505669Музыкаmtv 80s_00httpmfecliptvazdashvh1classicsdismplaylistmpd00\" ,MTV 80s
+http://mfe.cliptv.az/dash/VH1_Classic_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"3\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Музыка\"  update-code=\"tvs1610505669Музыкаzhara_d0http185161224216dashjaratvsdismplaylistmpd00\" ,Жара
+http://185.161.224.216/dash/JaraTv_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"3\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Музыка\"  update-code=\"tvs1610505669Музыкаmcm top_00httpmfecliptvazdashmcmtopsdismplaylistmpd00\" ,MCM Top
+http://mfe.cliptv.az/dash/MCM_TOP_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"3\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Музыка\"  update-code=\"tvs1610505669Музыкаmtv club_00httpmfecliptvazdashmtvdancesdismplaylistmpd00\" ,MTV Club
+http://mfe.cliptv.az/dash/MTV_DANCE_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"3\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Музыка\"  update-code=\"tvs1610505669Музыкаmtv hits_00httpmfecliptvazdashmtvhitssdismplaylistmpd00\" ,MTV Hits
+http://mfe.cliptv.az/dash/MTV_HITS_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"3\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Музыка\"  update-code=\"tvs1610505669Музыкаshanson tv_d0httpmfecliptvazdashshansonsdismplaylistmpd00\" ,Шансон ТВ
+http://mfe.cliptv.az/dash/Shanson_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"3\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Познавательные\"  update-code=\"tvs1610505669Познавательныеfashionbox_00httpmfecliptvazdashfishinboxsdismplaylistmpd00\" ,Fashionbox
+http://mfe.cliptv.az/dash/Fishinbox_SD.ism/playlist.mpd
+#EXTINF:-1 catchup=\"append\" catchup-days=\"3\" catchup-source=\"?offset=-${offset}\" catchup-record-source=\"?utcstart=${start}&utcend=${end}\" group-title=\"Познавательные\"  update-code=\"tvs1610505669Познавательныеfashion tv_00httpmfecliptvazdashfashiontvhdismplaylistmpd00\" ,FASHION TV
+http://mfe.cliptv.az/dash/Fashion_TV_HD.ism/playlist.mpd
